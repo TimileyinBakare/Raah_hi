@@ -110,5 +110,7 @@ Modules Redesigned
              Better Readability:
              The Poppins font ensures that all profile information is easily readable.
 
+Project Link : [Github](https://github.com/TimileyinBakare/Raah_hi.git)             
+
 Conclusion
              The redesign of these modules was driven by the need to improve usability and user experience, particularly for our target demographic of travelers aged 35-60. Statistics indicate that while 30% of our users are aged 20-30, a significant 70% are aged 35-60. This older demographic often prefers larger, brighter fonts for better readability. Therefore, the adoption of the Poppins font and the emphasis on clearer, more accessible UI elements were essential changes. By addressing the issues with the original implementation and making these necessary enhancements, the app now offers a more intuitive, accessible, and user-friendly interface. These improvements are expected to lead to higher user satisfaction and engagement.
