@@ -1,0 +1,21 @@
+import 'package:raah_hi/app/modules/auth/view/forgot_pass.dart';
+import 'package:raah_hi/app/modules/auth/view/login.dart';
+import 'package:raah_hi/app/modules/auth/components/onboarding.dart';
+import 'package:raah_hi/app/modules/auth/view/otp.dart';
+import 'package:raah_hi/app/modules/auth/view/register.dart';
+import 'package:raah_hi/app/modules/chats/view/chat.dart';
+import 'package:raah_hi/app/modules/contributions/view/contributions.dart';
+import 'package:raah_hi/app/modules/home/view/home.dart';
+import 'package:raah_hi/app/modules/profile/view/profile.dart';
+import 'package:raah_hi/app/widgets/bottomnavbar.dart';
+
+const splash = SplashScreen.routeName;
+const login = Login.routeName;
+const register = Register.routeName;
+const forgretpass = ForgetPassword.routeName;
+const otp = Otp.routeName;
+const home = Home.routeName;
+const bottomnavigator = CustomBottomNavigation.routeName;
+const profile = ProfileScreen.routeName;
+const chat = ChatScreen.routeName;
+const contribution = Contributions.routeName;
